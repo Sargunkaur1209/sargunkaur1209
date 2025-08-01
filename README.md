@@ -19,7 +19,7 @@ Computer Networking, Digital Electronics, Operating System, DBMS
 [![x](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SARGUNKAUR99639)
 
 
-## Other Common Github Profile Sections
+## My Interests
 👩‍💻 I'm currently working on C++
 
 🧠 I'm currently learning PHP
